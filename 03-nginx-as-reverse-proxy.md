@@ -29,9 +29,9 @@ NGINX is one of the most popular tools used as a reverse proxy in production.
 
 ---
 
-## 📝 Reverse Proxy Configuration (Ubuntu/Linux)
+##  Reverse Proxy Configuration (Ubuntu/Linux)
 
-### 🔧 File: `/etc/nginx/sites-available/default`
+###  File: `/etc/nginx/sites-available/default`
 
 Update the existing `server` block or create a new one:
 
